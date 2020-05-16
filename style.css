@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(199, 186, 127);
+}
+h1 {
+  width: 600px;
+  margin: 0 auto;
+  font-size: 80px;
+  padding-bottom: 150px;
+}
+
+.worper {
+  padding-top: 250px;
+}
+
+form {
+  width: 200px;
+  margin: 0 auto;
+  text-align: center;
+}
